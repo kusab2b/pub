@@ -1,0 +1,28 @@
+.figur{
+    border: solid;
+    width: 300px;
+    height: 400px;
+    background-color: #2F8141;
+    border: none;
+}
+.form{
+    border: solid;
+    width: 571px;
+    height: 140px;
+    background-color: #13513b;
+    border: none;
+}
+.solid{
+    border: solid;
+    width: 571px;
+    height: 140px;
+    background-color: #E624bb;
+    border: none;
+}
+.document{
+    border: solid;
+    width: 571px;
+    height: 140px;
+    background-color: #55EF0d;
+    border: none;
+}
